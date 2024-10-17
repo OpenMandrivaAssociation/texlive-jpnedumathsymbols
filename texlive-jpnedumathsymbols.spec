@@ -3,7 +3,7 @@ Version:	63864
 Release:	2
 Summary:	Mathematical equation representation in Japanese education
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jpnedumathsymbols
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jpnedumathsymbols
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jpnedumathsymbols.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jpnedumathsymbols.doc.r%{version}.tar.xz
