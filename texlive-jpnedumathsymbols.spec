@@ -1,6 +1,6 @@
 Name:		texlive-jpnedumathsymbols
-Version:	63864
-Release:	2
+Version:	72959
+Release:	1
 Summary:	Mathematical equation representation in Japanese education
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jpnedumathsymbols
